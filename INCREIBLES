@@ -1,0 +1,41 @@
+{
+  "squadName": "LOS INCREIBLES",
+  "homeTown": "Bogotá",
+  "formed": 2019,
+  "secretBase": "Colegio El Libertador",
+  "active": Si,
+  "members": [
+    {
+      "name": "Sebastian Herrera",
+      "age": 16,
+      "secretIdentity": "SuperMan",
+      "powers": [
+        "Visión Laser",
+        "Volar",
+        "Radiación"
+      ]
+    },
+    {
+      "name": "Angie Huertas",
+      "age": 16,
+      "secretIdentity": "Flash",
+      "powers": [
+        "Enanismo",
+        "Maxima velocidad",
+        "Inteligencia"
+      ]
+    },
+    {
+      "name": "Vanessa Gutierrez",
+      "age": 17,
+      "secretIdentity": "Super Girl",
+      "powers": [
+        "Inmortalidad",
+        "Fuerza",
+        "Volar",
+        "Teletransportación",
+        "Visio"
+      ]
+    }
+  ]
+}
